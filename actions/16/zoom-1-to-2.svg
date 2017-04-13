@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.0 r"
+   sodipodi:docname="zoom-1-to-2.svg">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview1"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="6.4952078"
+     inkscape:cy="6.4953378"
+     inkscape:window-width="1680"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1px"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1pxdot"
+       empspacing="1"
+       dotted="true"
+       originy="0.5"
+       originx="0.5" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
+     id="rect4137"
+     width="13"
+     height="13"
+     x="1.5"
+     y="1.5" />
+  <path
+     style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 10.5,3.5 h 2 v 2"
+     id="path4140"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 5.5,12.5 h -2 v -2"
+     id="path4142"
+     inkscape:connector-curvature="0" />
+  <g
+     aria-label="2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.70446873px;line-height:12.28880405px;font-family:contemporary;-inkscape-font-specification:'contemporary, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text819">
+    <path
+       d="M 8.7035737,7.873841 Q 9.0141167,7.5924114 9.1499792,7.3206863 9.2858418,7.0489612 9.2858418,6.631669 q 0,-0.5434502 -0.310543,-0.8734021 -0.310543,-0.329952 -0.9413335,-0.329952 -0.621086,0 -0.931629,0.329952 -0.310543,0.3202474 -0.4464055,0.8734021 -0.029113,0.1067492 -0.097045,0.164976 -0.067931,0.058227 -0.1552715,0.058227 H 5.957209 q -0.08734,0 -0.1552715,-0.058227 -0.058227,-0.067931 -0.058227,-0.1552715 0.019409,-0.4949279 0.2911341,-0.9801513 0.2814296,-0.4852235 0.7957664,-0.7957665 0.5143369,-0.310543 1.2033541,-0.310543 0.6890173,0 1.1742408,0.2814296 0.4949279,0.2717251 0.747244,0.7472441 0.2523159,0.4658145 0.2523159,1.0480826 0,0.6113816 -0.213498,1.0480827 Q 9.7904742,8.1067483 9.2858418,8.5531538 L 7.1217453,10.571683 h 2.9695677 q 0.106749,0 0.184385,0.07764 0.07763,0.07764 0.07763,0.184385 v 0.349361 q 0,0.106749 -0.07763,0.184385 -0.07764,0.07764 -0.184385,0.07764 H 5.9086867 q -0.1067492,0 -0.1843849,-0.07764 -0.077636,-0.07764 -0.077636,-0.184385 v -0.349361 q 0,-0.106749 0.038818,-0.17468 0.048522,-0.07764 0.1746804,-0.19409 z"
+       style="stroke-width:0.99999988px"
+       id="path821" />
+  </g>
+</svg>

@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg5"
-   sodipodi:docname="gps.svg"
+   sodipodi:docname="battery-020.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata9">
@@ -30,9 +30,9 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="13.195974"
-     inkscape:cy="3.276457"
+     inkscape:zoom="41.7193"
+     inkscape:cx="6.6007442"
+     inkscape:cy="8.0876538"
      inkscape:window-width="1680"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -51,9 +51,26 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <path
+  <rect
+     style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4137"
+     width="8"
+     height="11"
+     x="4.5"
+     y="3.5" />
+  <rect
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4139"
+     width="6"
+     height="2"
+     x="5.5"
+     y="1.5" />
+  <rect
      style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#010000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="m 14.5,1.5 -13,5 5,3 3,5 z"
-     id="path4491"
-     inkscape:connector-curvature="0" />
+     id="rect4485"
+     width="8"
+     height="2"
+     x="4.5"
+     y="12.5"
+     ry="1.8085499e-06" />
 </svg>

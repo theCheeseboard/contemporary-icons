@@ -12,7 +12,7 @@
    width="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="inkscape.svg">
   <metadata
      id="metadata9">
@@ -36,7 +36,7 @@
          offset="0"
          id="stop4141" />
       <stop
-         style="stop-color:#c2c8c8;stop-opacity:1"
+         style="stop-color:#d2bec8;stop-opacity:1"
          offset="1"
          id="stop4143" />
     </linearGradient>
@@ -53,13 +53,13 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="16.984794"
-     inkscape:cy="23.580181"
-     inkscape:window-width="1280"
-     inkscape:window-height="766"
-     inkscape:window-x="1680"
-     inkscape:window-y="250"
+     inkscape:zoom="14.75"
+     inkscape:cx="11.631904"
+     inkscape:cy="20.401191"
+     inkscape:window-width="1680"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -78,11 +78,4 @@
      style="opacity:0.98999999;fill:url(#linearGradient4145);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 15.5 5.5 L 22.738281 14.712891 L 12.414062 16.507812 A 0.50005 0.50005 0 0 0 12.089844 16.712891 L 8.71875 21.529297 L 5.5 18.5 L 15.5 5.5 z M 23.439453 15.605469 L 26.5 19.5 L 14 26.5 L 9.4550781 22.222656 L 12.791016 17.457031 L 23.439453 15.605469 z "
      id="path4137" />
-  <rect
-     style="opacity:0.98999999;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect4141"
-     width="1"
-     height="1"
-     x="33"
-     y="0" />
 </svg>

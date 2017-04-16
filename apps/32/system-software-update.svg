@@ -13,7 +13,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="system-software-update.svg"
-   inkscape:version="0.92.0 r">
+   inkscape:version="0.92.1 r">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -43,7 +43,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4492"
-       id="linearGradient4494"
+       id="linearGradient4593"
        x1="0"
        y1="32"
        x2="32"
@@ -53,9 +53,9 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="12.815229"
-     inkscape:cy="12.796983"
+     inkscape:zoom="29.5"
+     inkscape:cx="14.22698"
+     inkscape:cy="11.110222"
      inkscape:window-width="1680"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -75,7 +75,7 @@
        originx="0.5" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:url(#linearGradient4494);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 12.5 7 L 19.5 7 A 0.50005 0.50005 0 0 1 19.890625 7.1875 L 23.740234 12 L 8.2597656 12 L 12.109375 7.1875 A 0.50005 0.50005 0 0 1 12.5 7 z M 8 13 L 24 13 L 24 23.5 A 0.50005 0.50005 0 0 1 23.5 24 L 8.5 24 A 0.50005 0.50005 0 0 1 8 23.5 L 8 13 z M 16.013672 15 A 0.50005 0.50005 0 0 0 15.630859 15.162109 L 10.130859 21.162109 A 0.50005 0.50005 0 0 0 10.5 22 L 21.5 22 A 0.50005 0.50005 0 0 0 21.869141 21.162109 L 16.369141 15.162109 A 0.50005 0.50005 0 0 0 16.013672 15 z "
-     id="path4486" />
+     style="opacity:1;fill:url(#linearGradient4593);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 12.5 2 A 0.50005 0.50005 0 0 0 12.076172 2.234375 L 7.0761719 10.234375 A 0.50005 0.50005 0 0 0 7.5 11 L 24.5 11 A 0.50005 0.50005 0 0 0 24.923828 10.234375 L 19.923828 2.234375 A 0.50005 0.50005 0 0 0 19.5 2 L 12.5 2 z M 7.5 12 A 0.50004997 0.50004997 0 0 0 7 12.5 L 7 29.5 A 0.50004997 0.50004997 0 0 0 7.5 30 L 24.5 30 A 0.50004997 0.50004997 0 0 0 25 29.5 L 25 12.5 A 0.50004997 0.50004997 0 0 0 24.5 12 L 7.5 12 z M 15.992188 18.5 A 0.50005 0.50005 0 0 1 16.353516 18.646484 L 21.853516 24.146484 A 0.50005 0.50005 0 0 1 21.5 25 L 10.5 25 A 0.50005 0.50005 0 0 1 10.146484 24.146484 L 15.646484 18.646484 A 0.50005 0.50005 0 0 1 15.992188 18.5 z "
+     id="rect4496" />
 </svg>

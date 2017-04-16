@@ -13,7 +13,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="system-software-install.svg"
-   inkscape:version="0.92.0 r">
+   inkscape:version="0.92.1 r">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,6 +30,15 @@
      id="defs7">
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient4492"
+       id="linearGradient4593"
+       x1="0"
+       y1="32"
+       x2="32"
+       y2="0"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4492">
       <stop
          style="stop-color:#006400;stop-opacity:1"
@@ -40,21 +49,12 @@
          offset="1"
          id="stop4490" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4492"
-       id="linearGradient4494"
-       x1="0"
-       y1="32"
-       x2="32"
-       y2="0"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="15.780147"
+     inkscape:cx="-3.5757852"
      inkscape:cy="18.42363"
      inkscape:window-width="1680"
      inkscape:window-height="1016"
@@ -75,7 +75,8 @@
        originx="0.5" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:url(#linearGradient4494);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 12.5 7 L 19.5 7 A 0.50005 0.50005 0 0 1 19.890625 7.1875 L 23.740234 12 L 8.2597656 12 L 12.109375 7.1875 A 0.50005 0.50005 0 0 1 12.5 7 z M 8 13 L 24 13 L 24 23.5 A 0.50005 0.50005 0 0 1 23.5 24 L 8.5 24 A 0.50005 0.50005 0 0 1 8 23.5 L 8 13 z M 15.623047 14.080078 C 15.350638 14.080078 15.159493 14.219079 15.048828 14.5 L 11.919922 22.558594 C 11.885869 22.635206 11.869141 22.693761 11.869141 22.736328 C 11.869141 22.812945 11.894232 22.88182 11.945312 22.941406 C 12.004902 22.992486 12.073776 23.017578 12.150391 23.017578 L 12.623047 23.017578 C 12.87843 23.017578 13.044479 22.912037 13.121094 22.699219 L 13.785156 21 L 18.214844 21 L 18.878906 22.699219 C 18.955521 22.912037 19.12157 23.017578 19.376953 23.017578 L 19.849609 23.017578 C 19.926221 23.017578 19.989936 22.992486 20.041016 22.941406 C 20.100602 22.881817 20.130859 22.812943 20.130859 22.736328 C 20.130859 22.693765 20.114131 22.635209 20.080078 22.558594 L 16.964844 14.5 C 16.854178 14.219079 16.66108 14.080078 16.388672 14.080078 L 15.623047 14.080078 z M 16.005859 15.292969 L 17.767578 19.851562 L 14.232422 19.851562 L 16.005859 15.292969 z "
-     id="path4486" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:url(#linearGradient4593);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 12.5,2 a 0.50005,0.50005 0 0 0 -0.423828,0.234375 l -5.0000001,8 A 0.50005,0.50005 0 0 0 7.5,11 h 17 a 0.50005,0.50005 0 0 0 0.423828,-0.765625 l -5,-8 A 0.50005,0.50005 0 0 0 19.5,2 Z m -5,10 A 0.50004997,0.50004997 0 0 0 7,12.5 v 17 A 0.50004997,0.50004997 0 0 0 7.5,30 h 17 A 0.50004997,0.50004997 0 0 0 25,29.5 v -17 A 0.50004997,0.50004997 0 0 0 24.5,12 Z m 7.806641,2.027344 h 1.183593 c 0.421174,0 0.717571,0.218009 0.888672,0.652344 l 4.81836,12.457031 c 0.05265,0.118454 0.07813,0.211535 0.07813,0.277343 0,0.118455 -0.04654,0.222322 -0.138672,0.314454 -0.07897,0.07897 -0.176467,0.11914 -0.294922,0.11914 h -0.730469 c -0.39485,0 -0.651076,-0.165098 -0.769531,-0.49414 l -1.027344,-2.625 h -6.851562 l -1.025391,2.625 c -0.118455,0.329042 -0.374681,0.49414 -0.769531,0.49414 H 9.9375 c -0.118455,0 -0.2242747,-0.04017 -0.3164062,-0.11914 -0.07897,-0.09213 -0.1191407,-0.195999 -0.1191407,-0.314454 0,-0.06581 0.027432,-0.158887 0.080078,-0.277343 L 14.417969,14.679688 c 0.171102,-0.434336 0.467498,-0.652344 0.888672,-0.652344 z m 0.591797,1.875 -2.744141,7.048828 h 5.46875 z"
+     id="rect4496" />
 </svg>

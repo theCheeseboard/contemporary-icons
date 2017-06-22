@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="bookmark-remove.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview1"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="9.5281751"
+     inkscape:cy="8.5214748"
+     inkscape:window-width="1280"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1px"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1pxdot"
+       empspacing="1"
+       dotted="true"
+       originy="0.5"
+       originx="0.5" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 4.5 1 A 0.50005 0.50005 0 0 0 4 1.5 L 4 14.5 A 0.50005 0.50005 0 0 0 4.7910156 14.90625 L 8 12.615234 L 8.0039062 12.619141 A 4.5 4.5 0 0 1 8 12.5 A 4.5 4.5 0 0 1 12 8.0332031 L 12 1.5 A 0.50005 0.50005 0 0 0 11.5 1 L 4.5 1 z "
+     id="path4486" />
+  <path
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 12.5 9 A 3.5 3.5 0 0 0 9 12.5 A 3.5 3.5 0 0 0 12.5 16 A 3.5 3.5 0 0 0 16 12.5 A 3.5 3.5 0 0 0 12.5 9 z M 10.994141 10.494141 A 0.50005 0.50005 0 0 1 11.353516 10.646484 L 12.5 11.792969 L 13.646484 10.646484 A 0.50005 0.50005 0 0 1 13.990234 10.496094 A 0.50005 0.50005 0 0 1 14.353516 11.353516 L 13.207031 12.5 L 14.353516 13.646484 A 0.50005 0.50005 0 1 1 13.646484 14.353516 L 12.5 13.207031 L 11.353516 14.353516 A 0.50005 0.50005 0 1 1 10.646484 13.646484 L 11.792969 12.5 L 10.646484 11.353516 A 0.50005 0.50005 0 0 1 10.994141 10.494141 z "
+     id="path4521" />
+</svg>

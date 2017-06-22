@@ -12,7 +12,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="preferences-desktop-mouse.svg"
-   inkscape:version="0.92.0 r">
+   inkscape:version="0.92.1 r">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,13 +30,13 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="16.675427"
-     inkscape:cy="15.048651"
+     inkscape:zoom="7.375"
+     inkscape:cx="2.5354256"
+     inkscape:cy="6.1193769"
      inkscape:window-width="1280"
-     inkscape:window-height="766"
-     inkscape:window-x="1680"
-     inkscape:window-y="250"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5">
     <inkscape:grid
@@ -52,7 +52,7 @@
        originx="0.5" />
   </sodipodi:namedview>
   <path
-     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 16 3.0566406 A 8 12.944272 0 0 1 23.894531 14 L 8.1015625 14 A 8 12.944272 0 0 1 16 3.0566406 z M 15.5 6 A 0.50005 0.50005 0 0 0 15 6.5 L 15 11.5 A 0.50005 0.50005 0 0 0 15.5 12 L 16.5 12 A 0.50005 0.50005 0 0 0 17 11.5 L 17 6.5 A 0.50005 0.50005 0 0 0 16.5 6 L 15.5 6 z M 8.0253906 15 L 23.970703 15 A 8 12.944272 0 0 1 24 16 A 8 12.944272 0 0 1 16 28.943359 A 8 12.944272 0 0 1 8 16 A 8 12.944272 0 0 1 8.0253906 15 z "
-     id="path4486" />
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00000a;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 16 2 A 8.6524763 14 0 0 0 7.5546875 13 L 24.441406 13 A 8.6524763 14 0 0 0 16 2 z M 15.5 5 L 16.5 5 A 0.50005 0.50005 0 0 1 17 5.5 L 17 10.5 A 0.50005 0.50005 0 0 1 16.5 11 L 15.5 11 A 0.50005 0.50005 0 0 1 15 10.5 L 15 5.5 A 0.50005 0.50005 0 0 1 15.5 5 z M 7.4472656 14 A 8.6524763 14 0 0 0 7.3476562 16 A 8.6524763 14 0 0 0 16 30 A 8.6524763 14 0 0 0 24.652344 16 A 8.6524763 14 0 0 0 24.554688 14 L 7.4472656 14 z "
+     id="path4488" />
 </svg>

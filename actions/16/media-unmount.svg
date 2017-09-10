@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    width="16"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="dialog-cancel.svg">
+   id="svg5"
+   sodipodi:docname="media-unmount.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,15 +30,15 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="8.4710164"
-     inkscape:cy="7.8503485"
+     inkscape:zoom="14.75"
+     inkscape:cx="15.343335"
+     inkscape:cy="5.0395184"
      inkscape:window-width="1280"
      inkscape:window-height="742"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg5">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -53,6 +53,10 @@
   </sodipodi:namedview>
   <path
      style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 11.490234 3.9941406 A 0.50083746 0.50083746 0 0 1 11.853516 4.8535156 L 4.8535156 11.853516 A 0.50083746 0.50083746 0 1 1 4.1464844 11.146484 L 11.146484 4.1464844 A 0.50083746 0.50083746 0 0 1 11.490234 3.9941406 z "
-     id="path814" />
+     d="M 12.5 9 A 3.5 3.5 0 0 0 9 12.5 A 3.5 3.5 0 0 0 12.5 16 A 3.5 3.5 0 0 0 16 12.5 A 3.5 3.5 0 0 0 12.5 9 z M 12.492188 10 A 0.50083746 0.50083746 0 0 1 12.853516 10.146484 L 14.853516 12.146484 A 0.50083746 0.50083746 0 0 1 14.5 13 L 10.5 13 A 0.50083746 0.50083746 0 0 1 10.146484 12.146484 L 12.146484 10.146484 A 0.50083746 0.50083746 0 0 1 12.492188 10 z M 11.449219 14 A 0.50083746 0.50083746 0 0 1 11.5 14 L 13.5 14 A 0.50083746 0.50083746 0 1 1 13.5 15 L 11.5 15 A 0.50083746 0.50083746 0 1 1 11.449219 14 z "
+     id="path828" />
+  <path
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.5 4 A 0.50005 0.50005 0 0 0 1 4.5 L 1 11.5 A 0.50005 0.50005 0 0 0 1.5 12 L 8.03125 12 A 4.5 4.5 0 0 1 11 8.2636719 L 11 6 L 14 6 L 14 8.2636719 A 4.5 4.5 0 0 1 15 8.7597656 L 15 5.5 A 0.50005 0.50005 0 0 0 14.5 5 L 11 5 L 11 4.5 A 0.50005 0.50005 0 0 0 10.5 4 L 1.5 4 z "
+     id="rect4137" />
 </svg>

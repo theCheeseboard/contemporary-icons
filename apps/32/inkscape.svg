@@ -12,7 +12,7 @@
    width="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="inkscape.svg">
   <metadata
      id="metadata9">
@@ -54,12 +54,12 @@
      id="namedview1"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="11.631904"
-     inkscape:cy="20.401191"
-     inkscape:window-width="1680"
-     inkscape:window-height="1016"
+     inkscape:cx="18.648853"
+     inkscape:cy="14.977462"
+     inkscape:window-width="1280"
+     inkscape:window-height="742"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -78,4 +78,12 @@
      style="opacity:0.98999999;fill:url(#linearGradient4145);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 15.5 5.5 L 22.738281 14.712891 L 12.414062 16.507812 A 0.50005 0.50005 0 0 0 12.089844 16.712891 L 8.71875 21.529297 L 5.5 18.5 L 15.5 5.5 z M 23.439453 15.605469 L 26.5 19.5 L 14 26.5 L 9.4550781 22.222656 L 12.791016 17.457031 L 23.439453 15.605469 z "
      id="path4137" />
+  <path
+     style="opacity:0.98999999;fill:#d2d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 15.5,5.5 -10,13 3.21875,3.029297 3.371094,-4.816406 a 0.50005,0.50005 0 0 1 0.324218,-0.205079 l 10.324219,-1.794921 z"
+     id="path850" />
+  <path
+     style="opacity:0.98999999;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 23.439453,15.605469 12.791016,17.457031 9.4550781,22.222656 14,26.5 l 12.5,-7 z"
+     id="path848" />
 </svg>

@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    width="16"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
-   sodipodi:docname="dialog-error.svg">
+   id="svg5"
+   sodipodi:docname="dialog-error.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -31,14 +31,14 @@
      id="namedview1"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="6.9000342"
-     inkscape:cy="9.2173087"
+     inkscape:cx="9.3260671"
+     inkscape:cy="6.9907623"
      inkscape:window-width="1280"
      inkscape:window-height="742"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg5">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -51,8 +51,26 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <path
-     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 5.4941406 4.9941406 A 0.50005 0.50005 0 0 1 5.8535156 5.1464844 L 8 7.2929688 L 10.146484 5.1464844 A 0.50005 0.50005 0 0 1 10.490234 4.9960938 A 0.50005 0.50005 0 0 1 10.853516 5.8535156 L 8.7070312 8 L 10.853516 10.146484 A 0.50005 0.50005 0 1 1 10.146484 10.853516 L 8 8.7070312 L 5.8535156 10.853516 A 0.50005 0.50005 0 1 1 5.1464844 10.146484 L 7.2929688 8 L 5.1464844 5.8535156 A 0.50005 0.50005 0 0 1 5.4941406 4.9941406 z "
-     id="path4486" />
+  <circle
+     style="opacity:0.98999999;fill:#ff3232;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path823"
+     cx="8"
+     cy="8"
+     r="8" />
+  <rect
+     style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect815"
+     width="2"
+     height="8"
+     x="7"
+     y="2"
+     ry="1" />
+  <rect
+     style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect817"
+     width="2"
+     height="2"
+     x="7"
+     y="12"
+     ry="1" />
 </svg>

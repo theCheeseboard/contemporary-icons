@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg5"
-   sodipodi:docname="dialog-warning.svg"
+   sodipodi:docname="generic-app.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata9">
@@ -31,8 +31,8 @@
      id="namedview1"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="2.4824376"
-     inkscape:cy="9.0253912"
+     inkscape:cx="7.1754494"
+     inkscape:cy="7.6647369"
      inkscape:window-width="1680"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -51,9 +51,10 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <path
-     style="opacity:0.98999999;fill:#ff6400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 7.9519192,0 C 7.1525266,0.01274633 6.3895427,0.33604317 5.8243519,0.9015116 L 0.9008967,5.8249668 c -1.19375547,1.1942493 -1.19375547,3.1570465 0,4.3512962 l 4.9234552,4.923455 c 1.1942492,1.193757 3.1570466,1.193757 4.3512961,0 l 4.923455,-4.923455 c 1.193757,-1.1942496 1.193757,-3.1570469 0,-4.3512962 L 10.175648,0.9015116 C 9.5869296,0.31252124 8.7845867,-0.01275261 7.9519192,0 Z"
-     id="path916"
-     inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path819"
+     cx="8"
+     cy="8"
+     r="8" />
 </svg>

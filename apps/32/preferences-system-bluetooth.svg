@@ -12,7 +12,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="preferences-system-bluetooth.svg"
-   inkscape:version="0.92.0 r">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,9 +30,9 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="16.52401"
-     inkscape:cy="15.473918"
+     inkscape:zoom="20.85965"
+     inkscape:cx="13.931143"
+     inkscape:cy="15.508861"
      inkscape:window-width="1680"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -52,8 +52,17 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:0.98999999;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect814"
+     width="30"
+     height="30"
+     x="1"
+     y="1"
+     ry="2.75" />
   <path
-     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 16.492188 2 A 0.50005 0.50005 0 0 1 16.853516 2.1464844 L 23.353516 8.6464844 A 0.50005 0.50005 0 0 1 23.365234 9.3398438 L 17 16.175781 L 17 16.292969 L 23.353516 22.646484 A 0.50005 0.50005 0 0 1 23.353516 23.353516 L 16.853516 29.853516 A 0.50005 0.50005 0 0 1 16 29.5 L 16 17.25 L 9.8652344 23.839844 A 0.50005 0.50005 0 1 1 9.1347656 23.160156 L 15.554688 16.261719 L 9.1464844 9.8535156 A 0.50005 0.50005 0 1 1 9.8535156 9.1464844 L 16 15.292969 L 16 2.5 A 0.50005 0.50005 0 0 1 16.492188 2 z M 17 3.7070312 L 17 14.710938 L 22.304688 9.0117188 L 17 3.7070312 z M 17 17.707031 L 17 28.292969 L 22.292969 23 L 17 17.707031 z "
-     id="path4492" />
+     style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 12,11.5 10,10 -6,6 v -23 l 6,6 -10,10"
+     id="path818"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -11,7 +11,7 @@
    width="32"
    version="1.1"
    id="svg5"
-   sodipodi:docname="preferences-desktop-user.svg"
+   sodipodi:docname="preferences-desktop-about.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata9">
@@ -30,9 +30,9 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="7.6952782"
-     inkscape:cy="17.713328"
+     inkscape:zoom="20.85965"
+     inkscape:cx="14.275021"
+     inkscape:cy="12.68135"
      inkscape:window-width="1680"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -59,15 +59,9 @@
      x="1"
      y="1"
      ry="3" />
-  <circle
-     style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     id="path4484"
-     cx="16"
-     cy="10"
-     r="4" />
   <path
-     style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 16,15 A 11,11 0 0 0 5,26 H 27 A 11,11 0 0 0 16,15 Z"
-     id="path4486"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 16,4 A 12,12 0 0 0 4,16 12,12 0 0 0 16,28 12,12 0 0 0 28,16 12,12 0 0 0 16,4 Z m 0,3 a 1.50015,1.50015 0 0 1 0.105465,0.003 1.50015,1.50015 0 0 1 0.149415,0.0147 1.50015,1.50015 0 0 1 0.14649,0.03222 1.50015,1.50015 0 0 1 0.14355,0.04395 1.50015,1.50015 0 0 1 0.1377,0.05859 1.50015,1.50015 0 0 1 0.12891,0.073245 1.50015,1.50015 0 0 1 0.433593,0.410157 1.50015,1.50015 0 0 1 0.08204,0.12597 1.50015,1.50015 0 0 1 0.12012,0.27246 1.50015,1.50015 0 0 1 0.03808,0.14649 1.50015,1.50015 0 0 1 0.02637,0.14649 1.50015,1.50015 0 0 1 0.003,0.2988285 1.50015,1.50015 0 0 1 -0.05272,0.2958975 1.50015,1.50015 0 0 1 -0.0498,0.140625 1.50015,1.50015 0 0 1 -0.140625,0.266601 1.50015,1.50015 0 0 1 -0.298829,0.331056 1.50015,1.50015 0 0 1 -0.251952,0.166992 1.50015,1.50015 0 0 1 -0.134759,0.061515 1.50015,1.50015 0 0 1 -0.140625,0.0498 1.50015,1.50015 0 0 1 -0.146491,0.03516 1.50015,1.50015 0 0 1 -0.14942,0.020505 A 1.50015,1.50015 0 0 1 16,10 1.50015,1.50015 0 0 1 16,7 Z m -0.02345,4.479492 A 1.50015,1.50015 0 0 1 17.5,13 v 12 a 1.50015,1.50015 0 1 1 -3,0 V 13 a 1.50015,1.50015 0 0 1 1.476563,-1.520508 z"
+     id="path4139" />
 </svg>

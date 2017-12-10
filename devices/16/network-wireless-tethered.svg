@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="network-wireless-tethered.svg">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview1"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="13.318305"
+     inkscape:cy="10.346663"
+     inkscape:window-width="1680"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1px"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1pxdot"
+       empspacing="1"
+       dotted="true"
+       originy="0.5"
+       originx="0.5" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 8 2.0820312 C 5.7610709 2.0733408 3.5221731 2.5505808 1.296875 3.5429688 A 0.50005 0.50005 0 0 0 1.1035156 4.3046875 L 1.9902344 5.4648438 C 3.7248883 4.5387664 5.7911338 4 8 4 C 10.208866 4 12.275112 4.5387663 14.009766 5.4648438 L 14.896484 4.3046875 A 0.50005 0.50005 0 0 0 14.697266 3.5410156 C 12.477072 2.5860553 10.238929 2.0907221 8 2.0820312 z M 8 5 C 6.0023185 5 4.1581184 5.4725341 2.6074219 6.2714844 L 7.6035156 12.804688 A 0.50005 0.50005 0 0 0 8.3964844 12.804688 L 13.392578 6.2714844 C 11.841882 5.4725341 9.9976814 5 8 5 z M 7.9921875 6.5 A 0.50005 0.50005 0 0 1 8.3535156 6.6464844 L 9.8535156 8.1464844 A 0.50005 0.50005 0 0 1 9.5 9 L 6.5 9 A 0.50005 0.50005 0 0 1 6.1464844 8.1464844 L 7.6464844 6.6464844 A 0.50005 0.50005 0 0 1 7.9921875 6.5 z "
+     id="path4150-8" />
+</svg>

@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    width="16"
+   id="svg2"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="commit.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="call-missed.svg">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -31,14 +31,14 @@
      id="namedview1"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="2.7689394"
-     inkscape:cy="7.4267017"
+     inkscape:cx="5.9404138"
+     inkscape:cy="10.226476"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5">
+     inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -51,20 +51,20 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path821"
-     cx="7.5"
-     cy="7.5"
-     r="2" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
-     d="m 3.5,7.5 -2,-2 v 4 z"
-     id="path831"
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 14.5,14.5 V 12.13636 C 12.72727,10.36363 9.7727203,9.7727196 7.9999902,9.7727198 6.22726,9.7727198 3.2727097,10.36363 1.4999795,12.13636 V 14.5 h 3.5454601 l 2e-7,-1.18182 c 0.5909101,-0.59091 2.3636401,-1.18182 2.9545501,-1.18182 0.5909102,0 2.3636401,0.59091 2.9545491,1.18182 V 14.5 Z"
+     id="path4484"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 11.5,4.5 8,8 4.5,4.5"
+     id="path819"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 7.5,9.5 v 5"
-     id="path833"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 7.5,4.5 h -3 v 3"
+     id="path821"
      inkscape:connector-curvature="0" />
 </svg>

@@ -11,7 +11,7 @@
    width="16"
    version="1.1"
    id="svg5"
-   sodipodi:docname="commit.svg"
+   sodipodi:docname="sim-card-none.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata9">
@@ -30,9 +30,9 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="2.7689394"
-     inkscape:cy="7.4267017"
+     inkscape:zoom="29.5"
+     inkscape:cx="6.2736234"
+     inkscape:cy="5.1547838"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="0"
@@ -51,20 +51,13 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path821"
-     cx="7.5"
-     cy="7.5"
-     r="2" />
   <path
-     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
-     d="m 3.5,7.5 -2,-2 v 4 z"
-     id="path831"
-     inkscape:connector-curvature="0" />
+     style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     d="M 7.5 1 A 0.50005 0.50005 0 0 0 7.1464844 1.1464844 L 3.1464844 5.1464844 A 0.50005 0.50005 0 0 0 3 5.5 L 3 14.5 A 0.50005 0.50005 0 0 0 3.5 15 L 8.0078125 15 A 5 5 0 0 1 7 12 A 5 5 0 0 1 12 7 A 5 5 0 0 1 13 7.1015625 L 13 1.5 A 0.50005 0.50005 0 0 0 12.5 1 L 7.5 1 z "
+     id="path821" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 7.5,9.5 v 5"
-     id="path833"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 12,8 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m -1.505859,1.9941406 a 0.50005,0.50005 0 0 1 0.359375,0.1523434 L 12,11.292969 13.146484,10.146484 a 0.50005,0.50005 0 0 1 0.34375,-0.1503902 0.50005,0.50005 0 0 1 0.363282,0.8574222 L 12.707031,12 l 1.146485,1.146484 a 0.50005,0.50005 0 1 1 -0.707032,0.707032 L 12,12.707031 10.853516,13.853516 A 0.50005,0.50005 0 1 1 10.146484,13.146484 L 11.292969,12 10.146484,10.853516 a 0.50005,0.50005 0 0 1 0.347657,-0.8593754 z"
+     id="path4485" />
 </svg>

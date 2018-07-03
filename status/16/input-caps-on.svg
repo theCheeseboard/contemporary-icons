@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="input-caps-on.svg">
   <metadata
      id="metadata9">
@@ -31,12 +31,12 @@
      id="namedview1"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="6.8445314"
-     inkscape:cy="8.7511239"
+     inkscape:cx="8.662349"
+     inkscape:cy="9.0476946"
      inkscape:window-width="1280"
-     inkscape:window-height="766"
-     inkscape:window-x="1680"
-     inkscape:window-y="250"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -52,8 +52,11 @@
        originx="0.5" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 8,1.5 -4.5,5 3,0 0,8 3,0 0,-8 3,0 z"
-     id="path4137"
-     inkscape:connector-curvature="0" />
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.5 1 A 0.50005 0.50005 0 0 0 1 1.5 L 1 14.5 A 0.50005 0.50005 0 0 0 1.5 15 L 8.7617188 15 A 4.5 4.5 0 0 1 8 12.5 A 4.5 4.5 0 0 1 8.3828125 10.691406 L 5.5664062 10.691406 L 4.8378906 12.556641 C 4.7537568 12.790345 4.5714618 12.908203 4.2910156 12.908203 L 3.7714844 12.908203 C 3.6873505 12.908203 3.6142655 12.880305 3.5488281 12.824219 C 3.4927388 12.758779 3.4628906 12.683741 3.4628906 12.599609 C 3.4628906 12.552869 3.4821386 12.486479 3.5195312 12.402344 L 6.9550781 3.5546875 C 7.0766047 3.2461968 7.286795 3.0917969 7.5859375 3.0917969 L 8.4277344 3.0917969 C 8.7268768 3.0917969 8.9370671 3.2461968 9.0585938 3.5546875 L 10.892578 8.2988281 A 4.5 4.5 0 0 1 12.5 8 A 4.5 4.5 0 0 1 15 8.7597656 L 15 1.5 A 0.50005 0.50005 0 0 0 14.5 1 L 1.5 1 z M 8.0078125 4.4238281 L 6.0585938 9.4296875 L 9.21875 9.4296875 A 4.5 4.5 0 0 1 9.7519531 8.9394531 L 8.0078125 4.4238281 z "
+     id="rect814" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.5 9 A 3.5 3.5 0 0 0 9 12.5 A 3.5 3.5 0 0 0 12.5 16 A 3.5 3.5 0 0 0 16 12.5 A 3.5 3.5 0 0 0 12.5 9 z M 12.492188 9.9921875 A 0.50005 0.50005 0 0 1 13 10.5 L 13 12.5 A 0.50005 0.50005 0 1 1 12 12.5 L 12 10.5 A 0.50005 0.50005 0 0 1 12.492188 9.9921875 z M 12.5 14 A 0.50005 0.50005 0 1 1 12.5 15 A 0.50005 0.50005 0 1 1 12.5 14 z "
+     id="path826" />
 </svg>

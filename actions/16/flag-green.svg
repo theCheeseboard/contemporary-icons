@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    width="16"
+   id="svg2"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="commit.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="flag-green.svg">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,15 +30,15 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="2.7689394"
-     inkscape:cy="7.4267017"
+     inkscape:zoom="20.85965"
+     inkscape:cx="-0.99430251"
+     inkscape:cy="7.311187"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5">
+     inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -51,20 +51,18 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path821"
-     cx="7.5"
-     cy="7.5"
-     r="2" />
-  <path
-     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
-     d="m 3.5,7.5 -2,-2 v 4 z"
-     id="path831"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 7.5,9.5 v 5"
-     id="path833"
-     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:0.98999999;fill:#009600;fill-opacity:1;fill-rule:nonzero;stroke:#009600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4141"
+     width="1"
+     height="13"
+     x="3.5"
+     y="1.5" />
+  <rect
+     style="opacity:0.98999999;fill:#009600;fill-opacity:1;fill-rule:nonzero;stroke:#009600;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4143"
+     width="8"
+     height="6"
+     x="4.5"
+     y="1.5" />
 </svg>

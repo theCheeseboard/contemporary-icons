@@ -13,7 +13,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="utilities-file-archiver.svg"
-   inkscape:version="0.92.0 r">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -28,6 +28,18 @@
   </metadata>
   <defs
      id="defs7">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient856">
+      <stop
+         style="stop-color:#646464;stop-opacity:1"
+         offset="0"
+         id="stop852" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1"
+         offset="1"
+         id="stop854" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4492">
@@ -57,20 +69,32 @@
        x1="0"
        y1="32"
        x2="32"
-       y2="0" />
+       y2="0"
+       gradientTransform="rotate(-90,16,16)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient856"
+       id="linearGradient858"
+       x1="0"
+       y1="32"
+       x2="32"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-90,16,16)" />
   </defs>
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="20.341256"
-     inkscape:cy="9.7509609"
-     inkscape:window-width="1680"
-     inkscape:window-height="1016"
+     inkscape:zoom="14.75"
+     inkscape:cx="10.129776"
+     inkscape:cy="13.127986"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5">
+     inkscape:current-layer="svg5"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -85,6 +109,24 @@
   </sodipodi:namedview>
   <path
      style="opacity:1;fill:url(#linearGradient4514);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 16 0 A 16 16 0 0 0 0 16 A 16 16 0 0 0 16 32 A 16 16 0 0 0 32 16 A 16 16 0 0 0 16 0 z M 12.5 7 L 13.806641 7 L 12.138672 12 L 8.2597656 12 L 12.109375 7.1875 A 0.50005 0.50005 0 0 1 12.5 7 z M 14.861328 7 L 17.138672 7 L 18.806641 12 L 13.193359 12 L 14.861328 7 z M 18.193359 7 L 19.5 7 A 0.50005 0.50005 0 0 1 19.890625 7.1875 L 23.740234 12 L 19.861328 12 L 18.193359 7 z M 8 13 L 12 13 L 12 14 L 9.5 14 A 0.50005 0.50005 0 0 0 9 14.5 L 9 15.5 A 0.50005 0.50005 0 0 0 9.5 16 L 12 16 L 12 18 L 8 18 L 8 13 z M 13 13 L 19 13 L 19 18 L 13 18 L 13 15.5 L 13 14.5 L 13 13 z M 20 13 L 24 13 L 24 18 L 20 18 L 20 13 z M 8 19 L 12 19 L 12 24 L 8.5 24 A 0.50005 0.50005 0 0 1 8 23.5 L 8 19 z M 13 19 L 19 19 L 19 24 L 13 24 L 13 19 z M 20 19 L 24 19 L 24 23.5 A 0.50005 0.50005 0 0 1 23.5 24 L 20 24 L 20 19 z "
-     id="path4486" />
+     d="M 1.0211763e-7,16 A 16,16 0 0 0 16,31.999999 16,16 0 0 0 31.999999,16 16,16 0 0 0 16,1.0211762e-7 16,16 0 0 0 1.0211763e-7,16 Z"
+     id="path4486"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#009600;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="rect860"
+     width="12"
+     height="16"
+     x="8"
+     y="8"
+     ry="1" />
+  <path
+     style="opacity:1;fill:url(#linearGradient858);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 16,31.999999 A 16,16 0 0 0 31.999999,16 16,16 0 0 0 16,1.0211762e-7 L 16,12 l 4,4 -4,4 z"
+     id="path849"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#00c800;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     d="M 16 10 L 16 11 L 16 12 L 20 16 L 16 20 L 16 21 L 16 22 L 17 22 L 21 22 C 21.554 22 22 21.554 22 21 L 22 11 C 22 10.446 21.554 10 21 10 L 17 10 L 16 10 z "
+     id="rect862" />
 </svg>

@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    width="16"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="view-restore.svg">
+   id="svg5"
+   sodipodi:docname="insert-page-break.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,15 +30,15 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="0.093939417"
-     inkscape:cy="7.7477438"
+     inkscape:zoom="20.85965"
+     inkscape:cx="9.5614281"
+     inkscape:cy="6.3598847"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg5">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -51,21 +51,18 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4141"
-     width="4.9999995"
-     height="4.9999995"
-     x="5.5"
-     y="5.5" />
   <path
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 11.5,1.5 v 3 h 3"
-     id="path823"
+     style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     d="M 1.5 9 A 0.50005 0.50005 0 0 0 1 9.5 L 1 16.5 L 1.5 16.5 L 2 16.5 L 14 16.5 L 14.5 16.5 L 15 16.5 L 15 13.5 A 0.50005 0.50005 0 0 0 14.853516 13.146484 L 10.853516 9.1464844 A 0.50005 0.50005 0 0 0 10.5 9 L 1.5 9 z M 10.492188 10.992188 A 0.50005 0.50005 0 0 1 11 11.5 L 11 13 L 12.5 13 A 0.50005 0.50005 0 1 1 12.5 14 L 10.5 14 A 0.50005 0.50005 0 0 1 10 13.5 L 10 11.5 A 0.50005 0.50005 0 0 1 10.492188 10.992188 z "
+     id="path821" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+     d="m 1.5,-0.5 v 6 h 13 v -6"
+     id="path819"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 1.5,11.5 h 3 v 3"
-     id="path825"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1.5,7.5 h 13"
+     id="path831"
      inkscape:connector-curvature="0" />
 </svg>

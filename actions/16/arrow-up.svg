@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="view-restore.svg">
+   sodipodi:docname="arrow-up.svg">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,9 +30,9 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="0.093939417"
-     inkscape:cy="7.7477438"
+     inkscape:zoom="20.85965"
+     inkscape:cx="0.79745112"
+     inkscape:cy="10.39706"
      inkscape:window-width="1920"
      inkscape:window-height="1046"
      inkscape:window-x="0"
@@ -51,21 +51,9 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
-  <rect
-     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4141"
-     width="4.9999995"
-     height="4.9999995"
-     x="5.5"
-     y="5.5" />
   <path
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 11.5,1.5 v 3 h 3"
-     id="path823"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 1.5,11.5 h 3 v 3"
-     id="path825"
+     style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 14.5,11.249989 H 1.4999999 L 7.9999996,4.7499901 Z"
+     id="path4137"
      inkscape:connector-curvature="0" />
 </svg>

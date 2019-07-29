@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="battery-charging.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview1"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="7.7187541"
+     inkscape:cy="6.4185079"
+     inkscape:window-width="1280"
+     inkscape:window-height="742"
+     inkscape:window-x="1920"
+     inkscape:window-y="304"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1px"
+       empspacing="4" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1pxdot"
+       empspacing="1"
+       dotted="true"
+       originy="0.5"
+       originx="0.5" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 10.998047 14.318359 L 10.998047 9.0742188 L 8.9941406 9.0742188 L 8.9941406 11.078125 L 2.9882812 11.078125 L 2.9882812 9.0742188 L 4.9902344 9.0742188 L 4.9902344 7.0722656 L 2.9882812 7.0722656 L 2.9882812 5.0703125 L 8.9941406 5.0703125 L 8.9941406 7.0722656 L 13 7.0722656 L 13 12.888672 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z M 13 12.888672 A 7 7 0 0 1 12.734375 13.146484 A 7 7 0 0 0 13 12.888672 z M 12.728516 13.150391 A 7 7 0 0 1 12.193359 13.595703 A 7 7 0 0 0 12.728516 13.150391 z M 12.191406 13.595703 A 7 7 0 0 1 11.619141 13.984375 A 7 7 0 0 0 12.191406 13.595703 z M 11.605469 13.992188 A 7 7 0 0 1 11.005859 14.314453 A 7 7 0 0 0 11.605469 13.992188 z "
+     id="path962" />
+</svg>

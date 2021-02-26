@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="16"
    width="16"
+   id="svg2"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="tools-media-optical-burn.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="application-javascript.svg">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -30,56 +30,46 @@
   <sodipodi:namedview
      id="namedview1"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="2.9658788"
-     inkscape:cy="12.321752"
+     inkscape:zoom="41.7193"
+     inkscape:cx="7.0528772"
+     inkscape:cy="8.7528066"
      inkscape:window-width="1920"
      inkscape:window-height="1044"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
+     inkscape:current-layer="svg2"
+     showguides="false"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
-       empspacing="4"
-       enabled="true" />
+       empspacing="4" />
     <inkscape:grid
        type="xygrid"
        id="grid1pxdot"
        empspacing="1"
        dotted="true"
        originy="0.5"
-       originx="0.5"
-       enabled="true" />
-    <inkscape:grid
-       type="axonomgrid"
-       id="grid838"
-       empspacing="1"
-       spacingy="3"
-       units="px"
-       enabled="false"
-       originx="-0.3"
-       gridanglex="60"
-       gridanglez="60" />
+       originx="0.5" />
   </sodipodi:namedview>
-  <circle
-     style="opacity:0.99;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4137"
-     cx="8"
-     cy="0"
-     r="7.5" />
-  <circle
-     style="opacity:0.99;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path4139"
-     cx="8"
-     cy="0"
-     r="1.5" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 8,10.5 -3,3 h 6 z"
-     id="path815"
+     style="opacity:0.98999999;fill:#ffc8ff;fill-opacity:1;fill-rule:nonzero;stroke:#ffc8ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3.5,1.5 v 13 h 9 v -9 l -4,-4 z"
+     id="path4139"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 8.5,2.5 v 3 h 3"
+     id="path4141"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 4.5,13.5 h 2 v -6"
+     id="path834" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 10.5,7.5 h -2 v 3 h 2 v 3 h -2"
+     id="path836" />
 </svg>

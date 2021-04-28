@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="network-wireless-error.svg">
   <metadata
      id="metadata9">
@@ -33,12 +33,13 @@
      inkscape:zoom="29.5"
      inkscape:cx="7.2641938"
      inkscape:cy="7.3854794"
-     inkscape:window-width="1680"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="6400"
+     inkscape:window-y="720"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -59,4 +60,8 @@
      style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
      d="M 12.5 9 A 3.5 3.5 0 0 0 9 12.5 A 3.5 3.5 0 0 0 12.5 16 A 3.5 3.5 0 0 0 16 12.5 A 3.5 3.5 0 0 0 12.5 9 z M 12.492188 9.9921875 A 0.50005 0.50005 0 0 1 13 10.5 L 13 12.5 A 0.50005 0.50005 0 1 1 12 12.5 L 12 10.5 A 0.50005 0.50005 0 0 1 12.492188 9.9921875 z M 12.464844 14 A 0.50005 0.50005 0 0 1 12.5 14 A 0.50005 0.50005 0 1 1 12.5 15 A 0.50005 0.50005 0 0 1 12.464844 14 z "
      id="path4495" />
+  <path
+     id="path835"
+     style="fill:#000000;fill-opacity:0.25;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 7.953125,2.5 C 5.7868339,2.5122318 3.6367182,3.0245867 1.5,4 L 8,12.5 A 4.5,4.5 0 0 1 11.320312,8.1582031 L 14.5,4 C 12.301882,2.9756595 10.119416,2.4877682 7.953125,2.5 Z" />
 </svg>

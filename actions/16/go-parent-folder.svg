@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="go-parent-folder.svg">
   <metadata
      id="metadata9">
@@ -33,12 +33,13 @@
      inkscape:zoom="29.5"
      inkscape:cx="6.3160026"
      inkscape:cy="8.3142783"
-     inkscape:window-width="1680"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="6400"
+     inkscape:window-y="720"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1px"
@@ -52,7 +53,7 @@
        originx="0.5" />
   </sodipodi:namedview>
   <path
+     id="path4485"
      style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 1.5 1 A 0.50005 0.50005 0 0 0 1 1.5 L 1 14.5 A 0.50005 0.50005 0 0 0 1.5 15 L 14.5 15 A 0.50005 0.50005 0 0 0 15 14.5 L 15 4.5 A 0.50005 0.50005 0 0 0 14.5 4 L 8 4 L 8 1.5 A 0.50005 0.50005 0 0 0 7.5 1 L 1.5 1 z M 2.4648438 3 A 0.50005 0.50005 0 0 1 2.5 3 L 6.5 3 A 0.50005 0.50005 0 1 1 6.5 4 L 2.5 4 A 0.50005 0.50005 0 0 1 2.4648438 3 z M 7.9941406 6.1875 A 0.3750375 0.3750375 0 0 1 8.265625 6.296875 L 13.140625 11.171875 A 0.3750375 0.3750375 0 0 1 12.875 11.8125 L 3.125 11.8125 A 0.3750375 0.3750375 0 0 1 2.859375 11.171875 L 7.734375 6.296875 A 0.3750375 0.3750375 0 0 1 7.9941406 6.1875 z "
-     id="path4485" />
+     d="M 1.5 1 A 0.50005 0.50005 0 0 0 1 1.5 L 1 14.5 A 0.50005 0.50005 0 0 0 1.5 15 L 14.5 15 A 0.50005 0.50005 0 0 0 15 14.5 L 15 4.5 A 0.50005 0.50005 0 0 0 14.5 4 L 8 4 L 8 1.5 A 0.50005 0.50005 0 0 0 7.5 1 L 1.5 1 z M 2.4648438 3 A 0.50005 0.50005 0 0 1 2.5 3 L 6.5 3 A 0.50005 0.50005 0 1 1 6.5 4 L 2.5 4 A 0.50030889 0.50030889 0 0 1 2.4648438 3 z M 7.9765625 7.5 A 0.50005 0.50005 0 0 1 8.3535156 7.6464844 L 10.853516 10.146484 A 0.50005 0.50005 0 0 1 10.5 11 L 5.5 11 A 0.50005 0.50005 0 0 1 5.1464844 10.146484 L 7.6464844 7.6464844 A 0.50005 0.50005 0 0 1 7.9765625 7.5 z " />
 </svg>

@@ -4,7 +4,7 @@
    width="16"
    version="1.1"
    id="svg5"
-   sodipodi:docname="debug-step-over.svg"
+   sodipodi:docname="vcs-revert.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,15 +30,14 @@
      id="namedview1"
      showgrid="true"
      inkscape:zoom="59"
-     inkscape:cx="4.8389831"
-     inkscape:cy="8.8983051"
+     inkscape:cx="7.5508475"
+     inkscape:cy="8.9322034"
      inkscape:window-width="2560"
      inkscape:window-height="1403"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:document-rotation="0"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -57,18 +56,32 @@
        originy="0.5"
        originx="0.5" />
   </sodipodi:namedview>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 3.5,8.5 v 6"
+     id="path833"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
   <circle
-     style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-     id="path835"
-     cx="12"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="path1008"
+     cx="3.5"
      cy="7.5"
-     r="2" />
+     r="1" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 4.5,4.5 v 7"
-     id="path839" />
-  <path
-     style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
-     d="m 2.5,9.5 h 4 l -2,2 z"
-     id="path939" />
+     d="m 3.5,6.5 v -5"
+     id="path1282"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.93122px;line-height:1.25;font-family:Contemporary;-inkscape-font-specification:Contemporary;stroke-width:0.999999"
+     x="6.2748427"
+     y="7.8777146"
+     id="text2523"><tspan
+       sodipodi:role="line"
+       id="tspan2521"
+       x="6.2748427"
+       y="7.8777146"
+       style="stroke-width:0.999999">-1</tspan></text>
 </svg>

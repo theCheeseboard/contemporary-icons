@@ -1,0 +1,22 @@
+{
+  "name": "contemporary-icons",
+  "version": "1.0.0",
+  "description": "Contemporary Icons",
+  "scripts": {
+    "build": "node scripts/compile-spritesheet.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicr123/contemporary-icons.git"
+  },
+  "dependencies": {
+    "glob": "^9.3.1",
+    "svg-sprite": "^2.0.2"
+  },
+  "author": "Victor Tran",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/vicr123/contemporary-icons/issues"
+  },
+  "homepage": "https://github.com/vicr123/contemporary-icons#readme"
+}

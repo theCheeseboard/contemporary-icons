@@ -106,6 +106,26 @@ Context=Emblems
 Size=48
 Type=Scalable
 
+[emotes/16]
+Context=Emotes
+Size=16
+Type=Scalable
+
+[emotes/24]
+Context=Emotes
+Size=24
+Type=Scalable
+
+[emotes/32]
+Context=Emotes
+Size=32
+Type=Scalable
+
+[emotes/48]
+Context=Emotes
+Size=48
+Type=Scalable
+
 [mimetypes/16]
 Context=MimeTypes
 Size=16
